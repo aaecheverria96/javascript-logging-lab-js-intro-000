@@ -1,6 +1,6 @@
 console.error("HALP!")
-console.warn("HALP!")
 console.log("HALP!")
+console.warn("HALP!")
 const expect = require('expect')
 const fs = require('fs')
 const jsdom = require('jsdom')
